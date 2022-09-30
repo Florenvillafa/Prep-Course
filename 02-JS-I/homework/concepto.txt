@@ -1,0 +1,10 @@
+
+    Variable: es un elemento que se usa para guardar un valor y despues utilizar ese valor
+    Strings: cadena de caracteres que se representan en formate de texto.
+    Funcion: es un conjunto de instrucciones que realiza una tarea o calcula un valor, 
+    y esto tiene una entrada de instrucciones y debe deolver un resultado
+    Argumentos: expresan lz informacion que va a la funcion
+    Return: muestra el valor devuelto por la funcion
+    Declaraciones if: Ejecuta una sentencia si una condición es verdadera.
+    Si la condición es falsa, otra sentencia puede ser ejecutada.
+    Valores booleanos (true, false): informacion logica solo puede ser falso o verdadero.
