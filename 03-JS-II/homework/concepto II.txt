@@ -1,0 +1,4 @@
+* `for`, en la funcion evalua la expresion condicional
+* `&&` evalua ambas condiciones, si una de las dos condiciones es falsa, devolvera False.
+* `||` Si alguna o ambas de las condiciones es verdadera, devolvera Verdadero
+* `!` indica lo contrario a la expresion 
