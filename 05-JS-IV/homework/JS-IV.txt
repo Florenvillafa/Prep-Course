@@ -1,0 +1,11 @@
+   
+    * Objetos, contienen mucha informacion sobre una sola cosa.
+	
+    * Propiedades: definen las caracteristicas del objeto
+	
+    * Métodos: son funciones guardadas en un objeto, los valores se establecen en funciones
+	
+    * Bucle `for…in`: repite cada par clave-valor en nustro objeto
+
+	* Notación de puntos vs 
+    * notación de corchetes, se accede a la propiedad del objeto, pueden usarse con variables(debe llevar comillas, como un string)
